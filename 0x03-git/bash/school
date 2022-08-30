@@ -1,2 +1,7 @@
 ‘#! /bin/bash’
+<<<<<<< HEAD
 “The school is open! ”
+=======
+“School”
+"The school is open!"
+>>>>>>> e4e284b0d68eaa067a5ad7f1e6db37c4091cec84
